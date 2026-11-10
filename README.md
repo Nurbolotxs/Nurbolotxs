@@ -15,6 +15,7 @@ I'm an aspiring software engineer building a strong foundation in programming, a
 ### 📌 Featured Projects
 
 - **[Interactive Liquid Sorting Game (C)](https://github.com/Nurbolotxs/liquid-sorting-game-c)** — A terminal-based puzzle game featuring randomized initialization, move validation, colored output, and dynamic memory management.
+- **[Java Kitchen Management System (Java)](https://github.com/Nurbolotxs/java-kitchen-management-system)** — An object-oriented kitchen simulation featuring specialty-based meal assignment, wage calculation, input validation, and JUnit 5 tests.
 - **[Employee Age Analyzer (C#)](https://github.com/Nurbolotxs/employee-age-analyzer-csharp)** — A console application that counts distinct employee ages using arrays and nested loops.
 
 ### 📚 Currently Learning
