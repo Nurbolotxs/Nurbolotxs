@@ -8,6 +8,8 @@ I'm an aspiring software engineer building a strong foundation in programming, a
 ### 🛠️ Tech Stack
 
 **Languages:** Java · C · C# · JavaScript · HTML · CSS  
+**Backend & Databases:** Spring Boot · SQL  
+**Testing:** JUnit 5  
 **Tools & Environment:** Git · GitHub · Linux · Bash
 
 ### 📌 Featured Projects
