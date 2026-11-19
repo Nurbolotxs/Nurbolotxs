@@ -14,6 +14,7 @@ I'm an aspiring software engineer building a strong foundation in programming, a
 
 ### 📌 Featured Projects
 
+- **[SignalGuard — Industrial Data Quality Monitoring](https://github.com/Nurbolotxs/signalguard-industrial-data-quality)** ([Live Demo](https://signalguard-industrial-data-quality-hpntnxymspxyeefpxmdchq.streamlit.app/)) — An interactive Python and SQL dashboard for validating 12,000 synthetic industrial sensor readings, detecting data-quality issues, and exploring results through Streamlit and Plotly.
 - **[Sales Data Quality & ETL Pipeline (Python, pandas, SQLite)](https://github.com/Nurbolotxs/sales-data-quality-pipeline)** — An ETL pipeline that validates sales records, detects duplicates and invalid transactions, loads clean data into SQLite, and runs automated data quality tests with pytest.
 - **[Construction Project Tracking System (Java, Spring Boot)](https://github.com/Nurbolotxs/construction-project-tracker-java)** — A REST API for managing construction projects, tasks, and employees, with progress tracking, JUnit tests, Swagger UI, and GitHub Actions CI.
 - **[Interactive Liquid Sorting Game (C)](https://github.com/Nurbolotxs/liquid-sorting-game-c)** — A terminal-based puzzle game featuring randomized initialization, move validation, colored output, and dynamic memory management.
